@@ -83,14 +83,14 @@ public class Layout : MonoBehaviour {
         drawPile.y = jsonr.drawPile.y;
         drawPile.stagger.x = jsonr.drawPile.xStagger;
         drawPile.type = "drawpile";
-        drawPile.layerID = 4;
+        drawPile.layerID = 6;
         drawPile.layerName = jsonr.drawPile.layer;
 
         discardPile.x = jsonr.discardPile.x;
         discardPile.y = jsonr.discardPile.y;
         discardPile.stagger.x = jsonr.discardPile.xStagger;
         discardPile.type = "discardpile";
-        discardPile.layerID = 5;
+        discardPile.layerID = 7;
         discardPile.layerName = jsonr.discardPile.layer;
     }
 }
