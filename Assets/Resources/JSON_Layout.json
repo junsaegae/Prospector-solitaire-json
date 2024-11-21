@@ -17,7 +17,7 @@
             "id": 1,
             "x": -8,
             "y": 1,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row3",
             "hiddenByString": "0"
         },
@@ -25,7 +25,7 @@
             "id": 2,
             "x": -8,
             "y": 2,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row2",
             "hiddenByString": "2"
         },
@@ -33,7 +33,7 @@
             "id": 3,
             "x": -8,
             "y": 3,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row1",
             "hiddenByString": "3"
         },
@@ -41,7 +41,7 @@
             "id": 4,
             "x": -8,
             "y": 4,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row0",
             "hiddenByString": "4"
         },
@@ -57,7 +57,7 @@
             "id": 6,
             "x": -4,
             "y": 1,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row3",
             "hiddenByString": "5"
         },
@@ -65,7 +65,7 @@
             "id": 7,
             "x": -4,
             "y": 2,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row2",
             "hiddenByString": "6"
         },
@@ -73,7 +73,7 @@
             "id": 8,
             "x": -4,
             "y": 3,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row1",
             "hiddenByString": "7"
         },
@@ -81,7 +81,7 @@
             "id": 9,
             "x": -4,
             "y": 4,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row0",
             "hiddenByString": "8"
         },
@@ -97,7 +97,7 @@
             "id": 11,
             "x": 0,
             "y": 1,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row3",
             "hiddenByString": "10"
         },
@@ -105,7 +105,7 @@
             "id": 12,
             "x": 0,
             "y": 2,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row2",
             "hiddenByString": "11"
         },
@@ -113,7 +113,7 @@
             "id": 13,
             "x": 0,
             "y": 3,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row1",
             "hiddenByString": "12"
         },
@@ -121,7 +121,7 @@
             "id": 14,
             "x": 0,
             "y": 4,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row0",
             "hiddenByString": "13"
         },
@@ -137,7 +137,7 @@
             "id": 16,
             "x": 4,
             "y": 1,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row3",
             "hiddenByString": "15"
         },
@@ -145,7 +145,7 @@
             "id": 17,
             "x": 4,
             "y": 2,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row2",
             "hiddenByString": "16"
         },
@@ -153,7 +153,7 @@
             "id": 18,
             "x": 4,
             "y": 3,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row1",
             "hiddenByString": "17"
         },
@@ -161,7 +161,7 @@
             "id": 19,
             "x": 4,
             "y": 4,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row0",
             "hiddenByString": "18"
         },
@@ -177,7 +177,7 @@
             "id": 21,
             "x": 8,
             "y": 1,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row3",
             "hiddenByString": "20"
         },
@@ -185,7 +185,7 @@
             "id": 22,
             "x": 8,
             "y": 2,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row2",
             "hiddenByString": "21"
         },
@@ -193,7 +193,7 @@
             "id": 23,
             "x": 8,
             "y": 3,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row1",
             "hiddenByString": "22"
         },
@@ -201,7 +201,7 @@
             "id": 24,
             "x": 8,
             "y": 4,
-            "faceUp": false,
+            "faceUp": true,
             "layer": "Row0",
             "hiddenByString": "23"
         }
